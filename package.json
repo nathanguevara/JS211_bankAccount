@@ -4,7 +4,7 @@
   "description": "bank account project for JS211",
   "main": "main.js",
   "scripts": {
-    "test": "\"mocha --no-timeouts\""
+    "test": "mocha --no-timeouts"
   },
   "repository": {
     "type": "git",
