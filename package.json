@@ -1,0 +1,30 @@
+{
+  "name": "js211_bankaccount",
+  "version": "1.0.0",
+  "description": "bank account project for JS211",
+  "main": "main.js",
+  "scripts": {
+    "test": "\"mocha --no-timeouts\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanguevara/JS211_bankAccount.git"
+  },
+  "author": "Nathan Guevara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanguevara/JS211_bankAccount/issues"
+  },
+  "homepage": "https://github.com/nathanguevara/JS211_bankAccount#readme",
+  "dependencies": {
+    "eslint": "^8.16.0",
+    "functional-javascript-workshop": "^0.0.23",
+    "htmllint-cli": "github:kevincolten/htmllint-cli",
+    "http-server": "^14.1.0",
+    "javascripting": "^2.4.0",
+    "jsdom": "^11.6.2",
+    "mocha": "^10.0.0",
+    "postcss-html": "^0.34.0",
+    "stylelint": "^14.8.3"
+  }
+}
